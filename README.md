@@ -7,7 +7,7 @@ I have made this into a Jekyll Theme. Demo: [https://muktade.github.io/resume](h
 The theme would look like this 
 
 ![Demo](/images/demo.png)
-[(images/demo.png)]
+[(/images/demo.png)]
 
 
 # Installation
