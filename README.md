@@ -1,12 +1,13 @@
 # Resume
 
-This theme is designed by [flexycodex](https://themeforest.net/item/flexyvcard-responsive-vcard-template-/7158750) and modified by [Locky](https://github.com/junlulocky)
+This theme is designed and modified by [Muktadeer](https://github.com/muktade)
 
 I have made this into a Jekyll Theme. Demo: [https://muktade.github.io/resume](https://muktade.github.io/Reusme)
 
 The theme would look like this 
 
 ![Demo](/images/demo.png)
+[(images/demo.png)]
 
 
 # Installation
