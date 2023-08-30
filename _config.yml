@@ -1,0 +1,24 @@
+
+title: My Resume
+url: 'http://junlulocky.com'
+baseurl: '/resume' #change it according to your repository name
+
+
+
+# Profile information
+yourname: M A MUKTADEER  ## put your name
+title: 'FULL STACK SOFTWARE DEVELOPER'  ## your title
+location: Natore, Rajshahi, Bangladesh
+
+
+## Social Profiles
+facebook: http://www.facebook.com/bandhon.apm.ru  ## your facebook account url
+twitter: http://www.twitter.com  ## your twitter account url
+linkedin: http://www.linkedin.com/in/m-a-muktadeer-03469b176  ## your linkedin account url
+dribbble: http://www.dribble.com  ## you dribbble account url
+foursquare: http://www.foursquare.com  ## your foursquare account url
+github: https://github.com/muktade  ## your github account url
+
+
+
+# Update all the sections by editing the files inside _includes folder.
