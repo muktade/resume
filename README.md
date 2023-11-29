@@ -2,7 +2,7 @@
 
 This theme is designed and modified by [Muktadeer](https://github.com/muktade)
 
-I have made this into a Jekyll Theme. Demo: [https://muktade.github.io/resume](https://muktade.github.io/Reusme/)
+I have made this into a Jekyll Theme. Demo: [https://muktade.github.io/resume/](https://muktade.github.io/reusme)
 
 The theme would look like this 
 
